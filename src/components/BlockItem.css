@@ -1,13 +1,16 @@
 .block {
-    display: flex;
-    margin: 0.2rem;
     border-radius: 30px;
     border: 4px solid;
     border-color: white;
     width: 400px;
     padding: 5%;
-    
-    
+    position: relative;
+    margin: 2%;
+    display:inline-block;
+    flex-flow: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
 }
 
 .volume-container{

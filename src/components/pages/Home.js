@@ -10,7 +10,7 @@ function Home() {
     return (
         <>
             <div>
-                <PortalModal content='/ProjectName.gltf' visible={true}/>
+                {/* <PortalModal content='/ProjectName.gltf' visible={true}/> */}
                 <HeroSection />
                 <FeaturedVolumes />
             </div>

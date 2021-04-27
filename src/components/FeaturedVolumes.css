@@ -1,14 +1,13 @@
-.block {
-    position: relative;
-    margin: 2%;
-    display:inline-block;
-    flex-flow: column;
-    flex: 1;
-    align-items: center;
+.blocks {
     justify-content: center;
+    align-items: center;
+    align-content: center;
 }
+
 
 .block_items {
     /* margin-bottom: 24px; */
     margin: 10%;
+    align-items: center;
+    align-content: center;
 }
