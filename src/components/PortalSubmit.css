@@ -1,0 +1,10 @@
+.submit-window {
+    position: absolute;
+    top: 200px;
+    width: 200px;
+    height: 250px;
+    right: 10%;
+    z-index: 5;
+    background-color: rgba(230, 107, 230, 0.719);
+    
+}

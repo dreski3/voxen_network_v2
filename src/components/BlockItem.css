@@ -1,0 +1,30 @@
+.block {
+    display: flex;
+    margin: 0.2rem;
+    border-radius: 30px;
+    border: 4px solid;
+    border-color: white;
+    width: 400px;
+    padding: 5%;
+    
+    
+}
+
+.volume-container{
+    align-content: center;
+    background-color: transparent;
+    /* animation-name: rotate;
+    animation-duration: 2s; */
+    
+}
+
+.block_item_image {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    
+}
+
+/* .block_item {
+
+} */

@@ -1,0 +1,33 @@
+.canvas-container {
+    background-color: rgb(192, 33, 76);
+    height: 50%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.volume-title {
+    position: fixed;
+    z-index: 1000;
+    top: 10%;
+    color: white;
+}
+
+.portal {
+    background-color: white;
+}
+
+#pc {
+    background-color: white;
+}
+
+
+#tc {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(192, 33, 76);
+    z-index: 1000;
+}
